@@ -21,3 +21,9 @@ I'm a beginner developer passionate about the best web and mobile technologies.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoares72&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
+
+<div> 
+ 
+  ![Snake animation](https://github.com/lucassoares72/lucassoares72/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
