@@ -1,4 +1,4 @@
-Hi Guys 👋, I'm Lucas Soares
+## Hi Guys 👋, I'm <strong>Lucas Soares!</strong>
 
 I'm a beginner developer passionate about the best web and mobile technologies.
 
