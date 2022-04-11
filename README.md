@@ -17,10 +17,24 @@ I'm a beginner developer passionate about the best web and mobile technologies.
 
 <div align="center" >
 
-[![lucassoares72's github stats](https://github-readme-stats.vercel.app/api?username=lucassoares72&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoares72&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![lucassoares72's github stats](https://github-readme-stats.vercel.app/api?username=lucassoares01&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoares01&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
+
+<h3>A little more about me...</h3>
+
+```javascript
+const aboutme = {
+  code: ['HTML', 'CSS', 'JavaScript'],
+  technologies: {
+    tools: ['Yarn', 'npm', 'git'],
+    ides: ['VS Code', 'Sublime']
+  }
+  methodologies: ['Scrum'],
+  interest: ['Python', 'Elixir', 'ReactJS', 'GO']
+}
+```
 
 <div> 
  
