@@ -31,13 +31,12 @@ const aboutme = {
     tools: ['Yarn', 'npm', 'git'],
     ides: ['VS Code', 'Sublime']
   }
-  methodologies: ['Scrum'],
   interest: ['Python', 'Elixir', 'ReactJS', 'GO']
 }
 ```
 
 <div> 
  
-  ![Snake animation](https://github.com/lucassoares72/lucassoares72/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lucassoares01/lucassoares01/blob/output/github-contribution-grid-snake.svg)
  
 </div>
