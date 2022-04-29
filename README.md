@@ -34,9 +34,3 @@ const aboutme = {
   interest: ['Python', 'Elixir', 'ReactJS', 'GO']
 }
 ```
-
-<div> 
- 
-  ![Snake animation](https://github.com/lucassoares01/lucassoares01/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
