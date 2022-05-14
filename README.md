@@ -26,7 +26,7 @@ I'm a beginner developer passionate about the best web and mobile technologies.
 
 ```javascript
 const aboutme = {
-  code: ['HTML', 'CSS', 'JavaScript'],
+  code: ['HTML', 'CSS', 'JavaScript', 'ReactJS'],
   technologies: {
     tools: ['Yarn', 'npm', 'git'],
     ides: ['VS Code', 'Sublime']
