@@ -31,6 +31,6 @@ const aboutme = {
     tools: ['Yarn', 'npm', 'git'],
     ides: ['VS Code', 'Sublime']
   }
-  interest: ['Python', 'Elixir', 'ReactJS', 'GO']
+  interest: ['Python', 'Elixir', 'GO']
 }
 ```
