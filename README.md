@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<img align="right" width="350px" src="./gitimage.svg" style="margin-top: 100px;"/>
+<img align="right" width="300px" src="./gitimage.svg" style="margin-top: 100px;"/>
 
 <br>
 
