@@ -9,14 +9,13 @@
   </a>
 </p>
 
-<img align="right" width="400px" src="./gitimage.svg" style="margin-top: 100px;"/>
+<img align="right" width="330px" src="./gitimage.svg" style="margin-top: 100px;"/>
 
 <br>
 
 - 🌱 I’m currently learning about ReactJS
 - 🔭 I'm looking for ways to improve every day and learn more about Front-End.
 - ⚡ Skills: HTML5 | CSS3 | Javascript(ES6+) | ReactJS | Git | NPM / Yarn
-<br>
 
 <br>
 
